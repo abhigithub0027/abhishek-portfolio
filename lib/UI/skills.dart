@@ -6,6 +6,8 @@ class SkillsSection extends StatelessWidget {
   const SkillsSection({super.key});
 
   final List<String> skills = const [
+    "C++"
+    "OOPs"
     "Flutter",
     "Dart",
     "Kotlin",
@@ -16,7 +18,6 @@ class SkillsSection extends StatelessWidget {
     "MVVM",
     "Clean Architecture",
     "Git & GitHub",
-    "AWS Basics",
     "ReactJS",
   ];
 
